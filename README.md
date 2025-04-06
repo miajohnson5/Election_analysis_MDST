@@ -1,4 +1,3 @@
 # Election_analysis_MDST
-website!!
-# MDST
-# Hello Everyone
+
+# This semester we used a data set to study the influence of certain factors on election outcomes.
